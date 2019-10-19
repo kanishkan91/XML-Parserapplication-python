@@ -22,13 +22,13 @@ r=[elem.tag for elem in root.iter()]
 tree2=et.parse(r'data/ag_prodchange_ssp3_IRR_MGMT.xml')
 root6=tree2.getroot()
 
-tree3=et.parse(r'data/ag_prodchange_ssp5_IRR_MGMT.xml')
+tree3=et.parse(r'data/ag_prodchange_ssp3_IRR_MGMT.xml')
 root7=tree3.getroot()
 
 tree4=et.parse(r'data/ag_prodchange_ssp1_IRR_MGMT.xml')
 root8=tree4.getroot()
 
-tree5=et.parse(r'data/ag_prodchange_ssp5_IRR_MGMT.xml')
+tree5=et.parse(r'data/ag_prodchange_ssp3_IRR_MGMT.xml')
 root9=tree5.getroot()
 
 
