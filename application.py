@@ -28,10 +28,6 @@ root7=tree3.getroot()
 tree4=et.parse(r'data/ag_prodchange_ssp1_IRR_MGMT.xml')
 root8=tree4.getroot()
 
-tree5=et.parse(r'data/ag_prodchange_ssp3_IRR_MGMT.xml')
-root9=tree5.getroot()
-
-
 Countries=[]
 for x in root.iter('region'):
        Countries.append(x.attrib['name'])
