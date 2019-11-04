@@ -1,6 +1,3 @@
-certifi==2018.11.29
-chardet==3.0.4
-Click==7.0
 dash==1.1.1
 dash-core-components==0.43.0
 dash-html-components==0.13.5
@@ -22,14 +19,11 @@ pandas==0.24.1
 plotly==3.6.0
 python-dateutil==2.7.5
 pytz==2018.9
-requests==2.21.0
 retrying==1.3.3
 six==1.12.0
-traitlets==4.3.2
 urllib3==1.24.2
 Werkzeug==0.15.3
 xlrd==1.2.0
-XlsxWriter==1.1.2
 pytz==2018.9
 Quandl==3.4.6
 requests==2.21.0
